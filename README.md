@@ -5,7 +5,7 @@
 
 ## Prerequisites
 
-Holberton foundations 9 months
+ALX foundations 9 months
 
 ## Built With
 
